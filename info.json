@@ -1,0 +1,15 @@
+{
+  "name": "space-exploration-underground-belt-tweaks",
+  "version": "0.1.0",
+  "factorio_version": "1.1",
+  "title": "Space exploration belt",
+  "author": "L_banca01",
+  "contact": "",
+  "homepage": "",
+  "description": "Increases space underground belt distance.",
+  "dependencies": [
+    "base >= 0.16",
+    "space-exploration >= 0.5.24"
+  ],
+  "license": "MIT"
+}
